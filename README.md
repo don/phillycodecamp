@@ -16,4 +16,4 @@ Don Coleman - Chariot Solutions
 
 ## Slides
 
-The slides are available from https://don.github.io/slides/2018-11-16-phillycodecamp-iot-workshop/
+The slides are available from [https://don.github.io/slides/2018-11-16-phillycodecamp-iot-workshop/](https://don.github.io/slides/2018-11-16-phillycodecamp-iot-workshop/)

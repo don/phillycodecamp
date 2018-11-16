@@ -1,5 +1,5 @@
 # Building Wi-Fi Connected IoT Solutions with Arduino and Azure
-Philly Code Camp 2018 - November 16, 2018 <br/>
+Philly .NET Code Camp - November 16, 2018 <br/>
 Dani Diaz - Microsoft<br/>
 Don Coleman - Chariot Solutions
 

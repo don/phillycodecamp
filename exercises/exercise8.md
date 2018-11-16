@@ -14,7 +14,7 @@ Before running code, you need to have IoT Hub and a device set up in Azure. See 
     1. Install the IoT extension 
         `az extension add --name azure-cli-iot-ext`
     1. Generate a SAS token 
-        `az iot hub generate-sas-token -d arduino1010 -n workshop -du 63072000` (Note that you should substitute _arduino1010_ with your device name and _workshop_ with the name of your IoT Hub.)
+        `az iot hub generate-sas-token -d arduino1010 -n workshop --du 63072000` (Note that you should substitute _arduino1010_ with your device name and _workshop_ with the name of your IoT Hub.)
     1. Copy and paste the SAS Token into the Arduino code. 
 1. Azure's MQTT interface specifies the format for the topic names. Adjust the outbound feedbackTopic so it contains your device id `devices/${deviceId}/messages/events/`
 1. Adjust the inbound ledTopic to include the device id `devices/${deviceId}/messages/devicebound/#`
